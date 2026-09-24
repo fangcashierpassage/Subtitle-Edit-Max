@@ -1,0 +1,23 @@
+{
+  "repo": "subtitle-edit-max",
+  "product": "Subtitle Edit Max",
+  "kind": "video",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "video-editing",
+  "topics": [
+    "subtitle-edit",
+    "subtitle-windows",
+    "video-editing-desktop",
+    "how-to-install-subtitle",
+    "subtitle-edit-desktop-package",
+    "subtitle-workspace",
+    "subtitle-edit-pro-tools",
+    "subtitle-suite",
+    "zentool-subtitle",
+    "subtitle-edit-tool-9"
+  ],
+  "site": "zentool.art"
+}
